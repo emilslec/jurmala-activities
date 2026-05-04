@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emilslec.github.io/jurmala-activities/sitemap.xml
